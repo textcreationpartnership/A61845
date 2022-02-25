@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous history of the valiant London-prentice shewing his noble exploits at home and abroad: his love and great success. Very pleasant and delightful. Written for encouragement of youth. By J.S. This may be printed, R.P.</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61845</idno>
+            <idno type="STC">Wing S60</idno>
+            <idno type="STC">ESTC R222123</idno>
+            <idno type="EEBO-CITATION">99833351</idno>
+            <idno type="PROQUEST">99833351</idno>
+            <idno type="VID">37827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous history of the valiant London-prentice shewing his noble exploits at home and abroad: his love and great success. Very pleasant and delightful. Written for encouragement of youth. By J.S. This may be printed, R.P.</title>
+                  <author>J. S.</author>
+                  <author>J. S. (John Shirley), fl. 1680-1702, attributed name.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Back, at the Black-Boy on the middle of London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of print from Plomer.</note>
+                  <note>With initial engraved title page.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>With a final advertisment page.</note>
+                  <note>Text is virtually the same as The famous history of Aurelius, the valiant London-prentice by John Shirley.</note>
+                  <note>Copy mounted.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37827:1" rendition="simple:additions"/>
+            <p>The Famous Hiſtory of the Valiant <hi>London Prentice.</hi>
+            </p>
+            <figure/>
+            <p>Printed for <hi>I. Back,</hi> at the <hi>Black-Boy</hi> on the mid<g ref="char:EOLhyphen"/>dle of <hi>London-Bridge,</hi> 1693.</p>
+            <pb facs="tcp:37827:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:37827:3" rendition="simple:additions"/>
+            <pb facs="tcp:37827:3" rendition="simple:additions"/>
+            <p>THE Famous Hiſtory OF The VALIANT <hi>London-Prentice,</hi> SHEWING His Noble EXPLOITS at <hi>Home</hi> and <hi>Abroad:</hi> His LOVE and great SUCCESS.</p>
+            <p>Very Pleaſant and Delightful.</p>
+            <p>
+               <hi>Written for Encouragement of Youth.</hi>
+            </p>
+            <p>By <hi>J. S.</hi>
+            </p>
+            <p>
+               <hi>This may be Printed,</hi> R. P.</p>
+            <p>Printed for <hi>I. Back,</hi> at the <hi>Black-Boy</hi> on the mid<g ref="char:EOLhyphen"/>dle of <hi>London-Bridge,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37827:4"/>
+            <pb facs="tcp:37827:4"/>
+            <head>The HISTORY of the <hi>London-'Prentice,</hi> &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. An Account of his Birth, Education and early Valour, <hi>&amp;c.</hi>
+               </head>
+               <p>IN times paſt, there was Born in the Famous County of <hi>Cheſter,</hi> a young Man of excellent Beauty, promiſing ve<g ref="char:EOLhyphen"/>ry great things, even in his Infancy; to promote which, his Parents being weal<g ref="char:EOLhyphen"/>thy, ſpaxed not to educate or bring him up in the beſt manner the Country would afford, nor did he as he grew up fail in a<g ref="char:EOLhyphen"/>ny thing their expectation. In Learning he was well ſeen, and in many other mat<g ref="char:EOLhyphen"/>ters, but nothing ſo enflamed his mind as the deſire of exerciſing himſelf in feats of Arms, and was the more incited there<g ref="char:EOLhyphen"/>to by Reading the Famous Adventures of Knight-Errants, how ſucceſsful they were in overcoming Gyants and
+<pb facs="tcp:37827:5"/>Monſters, and reſcuing beauteous La<g ref="char:EOLhyphen"/>dies from death and miſery; and as theſe Heroick thoughts encreaſed, ſo he found his ſtrength abound. Nature not ſparing to give him many Limbs and an able Bo<g ref="char:EOLhyphen"/>dy, ſo that in his Childiſh Encounters thoſe that far ſurpaſſed him in years, were not able to reſiſt his force, nor come near him in Wreſtling, Iumping, Run<g ref="char:EOLhyphen"/>ning, cutting the Bar, Stone or Dart; which made not his Parents but a little proud of ſuch a bleſſing, whom they had named <hi>Aurelius,</hi> as one that promiſed great things.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. An Account of his firſt Adventures and Enterprizes, where he won the Vir<g ref="char:EOLhyphen"/>gins Hearts, <hi>&amp;c.</hi>
+               </head>
+               <p>WHen <hi>Aurelius</hi> was at the Age of four<g ref="char:EOLhyphen"/>teen, he went to a Wake or Merry-meeing, to recreate himſelf with other Youths of the Country; where he ſo well behaved himſelf, that his courage, acti<g ref="char:EOLhyphen"/>vity, ſtrength and beauty, gained great applauſe, and took ſo mainly with the Virgins, that ſome of them began to feel
+<pb facs="tcp:37827:5"/>a Fever in their Minds, which <hi>Cupid,</hi> who at ſuch Merry-meetings is ſeldom wanting in promoting the Buſineſs of Love, failed not to increaſe: but he as yet not capable of feeling the Flame of Paſſion that way, regarded not their amo<g ref="char:EOLhyphen"/>rous glances, nor underſtood the ſilent Language of enflamed Hearts, though it notwithſtanding, created him thoſe Ene<g ref="char:EOLhyphen"/>mies that were cauſeleſsly jealous of him, as a moſt dangerous Rival, and who ga<g ref="char:EOLhyphen"/>thered their Reaſon for it, from the many praiſes their Miſtreſſes beſtowed on him in his abſence.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. How the fair <hi>Lucinda</hi> fell in Love with him; how thoſe ſhe deſpiſed for his ſake, conſpired againſt him.</head>
+               <p>OVr Youth increaſing his Strength and Beauty with his years, and con<g ref="char:EOLhyphen"/>tinuing, as occaſion offered, to appear in publick amongſt thoſe admiring Virgins, that in a manner doated on him, and often wiſhed to be Miſtriſs of his Affections; <hi>Lucinda</hi> the fair Daughter of a Wealthy Shepherd was the chief, who ſought by
+<pb facs="tcp:37827:6" rendition="simple:additions"/>many ways to oblige him, and to let him underſtand her Paſſion; but Modeſty ſeal<g ref="char:EOLhyphen"/>ing her Lips, he did not, nor would not Interpret her Dumb Signs, but kept on his Merriment, without any regard of her Paſſion; which made her ſigh and grow melancholy, refuſing to entertain the Addreſs of thoſe that adored her, and doated on her Beauties, more than ſhe did on thoſe that adorned our Heroick Youth. This ſuddain alteration made them reſtleſs till they knew the Cauſe of it, which was not long e'er they did from her Virgin Companions, to whom ſhe had dropped ſome words of her Paſſion, as likewiſe by a Letter ſhe had written in order to ſend to him, by a truſty hand, but had accidentally dropped it, in which were theſe words:</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Dear <hi>Aurelius,</hi>
+                        </salute>
+                     </opener>
+                     <p>ſeeing you do not under<g ref="char:EOLhyphen"/>ſtand the language of a Love-ſick Virgins Eyes, pardon my boldneſs if with Bluſhes I have taken the liberty to let you know <hi>Lucinda</hi> doats on you, and begs you would requite her Love with Love, who for your ſake renounces the reſt of mankind: then have compaſſion, or <hi>Lucinda</hi> muſt be mi<g ref="char:EOLhyphen"/>ſerable.</p>
+                     <closer>
+                        <signed>Subſcribed Lucinda.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:37827:6" rendition="simple:additions"/>
+               <p>This giving the Amoriſts a full know<g ref="char:EOLhyphen"/>ledge, upon whoſe account they found ſuch cold entertainment from their be<g ref="char:EOLhyphen"/>loved Miſtriſs, whom every one of them feared to loſe, they bent their ſtudy how to remove that Screen that ſtood be<g ref="char:EOLhyphen"/>tween them and their much deſired hap<g ref="char:EOLhyphen"/>pineſs: ſome were of Opinion, that no<g ref="char:EOLhyphen"/>thing but the death of <hi>Aurelius</hi> could ef<g ref="char:EOLhyphen"/>fect it; but others of a milder diſpoſiti<g ref="char:EOLhyphen"/>on, declared, That it would not only be too much Cruelty, but bring their own Lives in queſtion; therefore conſidering Woman-kind was generally more taken with the Beauty of the Body, than with that of the Soul, they thought it fit to Deform him with Poyſon; but where to get it they knew not, and ſo came to a reſult, that to disfigure his Face with Wounds might work the ſame effect, and put an end to the paſſion of their Dear <hi>Lucinda,</hi> which they knew not any other ways to extinguiſh.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb facs="tcp:37827:7"/>
+               <head>CHAP. IV. How they attempted to deſtroy <hi>Aurelius,</hi> but were overcome and left naked in the Wood.</head>
+               <p>THe Plot thus lay'd againſt our Va<g ref="char:EOLhyphen"/>liant Youth many ways were ſought for an opportunity to put it in practice, till at laſt they underſtood he was gone to pay a viſit to an Aunt of his, who lived at a Village about two Miles from his Father's Houſe, and that he muſt re<g ref="char:EOLhyphen"/>turn by a Wood: This lucky opportu<g ref="char:EOLhyphen"/>nity, as they imagined it, made them all leap for Ioy, there being four in number, they armed them with miſchie<g ref="char:EOLhyphen"/>vous Weapons, and in diſguiſe, pla<g ref="char:EOLhyphen"/>ced themſelves in Ambuſh under a Thicket of Trees, in the way he muſt paſs, each Swearing to the other to keep the thing ſecret; though they kept not their Oaths, as you will hear. Long they had not ſtayed, but as they wiſhed, our valiant Youth not dreaming of ſuch Treachery came on; but hear<g ref="char:EOLhyphen"/>ing the Buſhes ruſſle he made a halt to ſee what it meant, when out leaped the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and incompaſſing him, after
+<pb facs="tcp:37827:7"/>they had uttered many his words, and reviled him at an unſeemly rate, they made in to grapple with him; who ig<g ref="char:EOLhyphen"/>norant of their intent, and ſcorning to ſtoop to fear, took the two foremoſt in either hand, and by main force brought their Heads together, that they rung like a Barber's Baſon: ſo that ſtunn'd with the valiant knocks, after ſtaggering ſome paces down they fell; and ha<g ref="char:EOLhyphen"/>ving, by this time wreſted a Weapon from one of them, he ſet upon the other two with ſuch fury, that giving them ſeveral Wounds, they, when they found the blood run about their Ears, fell on their Knees, and cried for mercy, as did the other, who by this time were re<g ref="char:EOLhyphen"/>covered from their Trance; yet could not they obtain their Wiſh till he had Thraſhed them into a Confeſſion of the whole matter, and thereby became ſenſi<g ref="char:EOLhyphen"/>ble of the Love <hi>Lucinda</hi> bore him; and that ſhe might come to the knowledge of what had happened on this occaſion, and that their treachery might be re<g ref="char:EOLhyphen"/>warded with diſgrace, he cauſed them to unſtrip, and with ſuch tackling as their Garments afforded, he bound them to four ſeveral Trees ſtark naked, where
+<pb facs="tcp:37827:8"/>theſe hot-brain'd Lovers took a fit of Tooling till the morning, which diſco<g ref="char:EOLhyphen"/>vering the whole Intriegue, their raſh Valour became for ſome time after the mirth of the Country; but moſt of all, it pleaſed the fair <hi>Lucinda,</hi> whoſe favour they loſt thereby.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. How his Father put him an Apprentice to a Merchant, and the leave he took of <hi>Lucinda.</hi>
+               </head>
+               <p>THe Father of Young <hi>Aurelius</hi> having received an exact account of all that had happened, and fearing theſe Lovers might ſtudy a further Revenge to repair their Diſgrace, as alſo to prevent any amours that might happen between him and <hi>Lucinda,</hi> to whom he was not wil<g ref="char:EOLhyphen"/>ling he ſhould be married; he took an opportunity to diſcourſe him about put<g ref="char:EOLhyphen"/>ting himſelf in a way that might ven<g ref="char:EOLhyphen"/>der him capable of living in Credit in the World: When finding him pliable and ready to ſubmit to what he ſhould propoſe, he told him it was his pleaſure he ſhould go to <hi>London,</hi> and there be put an Apprentice to ſome Honourable Cal<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:37827:8"/>that he might be a comfort to him in his old days; and that it ſhould be in his power to chuſe him a Maſter of any profeſſion. He had not long conſidered e're he reply'd, <hi>That ſeeing it was his plea<g ref="char:EOLhyphen"/>ſure, he was contented; and for the deſire he had to travel and ſee ſtrange Countries he could fancy none better than a Mer<g ref="char:EOLhyphen"/>chant:</hi> To this the old Man agrees, and ſhortly after he was ſent up to <hi>London,</hi> and placed to a <hi>Turkey</hi>-Merchant upon <hi>Lon<g ref="char:EOLhyphen"/>don</hi>-Bridge, and upon his departure direct<g ref="char:EOLhyphen"/>ed theſe Lines to <hi>Lucinda.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <l>Pardon me Beauteous Maid, if Love as yet</l>
+                     <l>No power a Conqueſt o'er me has to get;</l>
+                     <l>That you deſerve what e'er Love can be<g ref="char:EOLhyphen"/>ſtow,</l>
+                     <l>I muſt confeſs, but I alas! muſt go</l>
+                     <l>And wander o'er the world e're I can love,</l>
+                     <l>Then be contented &amp; for me ne'er grieve.</l>
+                     <closer>
+                        <signed>Subſcribed Aurelius.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This flat denial made the fair <hi>Lucin<g ref="char:EOLhyphen"/>da</hi> ſhed many tears, and bewail her hard fortune, in loving where ſhe was not re<g ref="char:EOLhyphen"/>payed with an equal paſſion; but ſoon after a Rich Farmers Son offering Ser<g ref="char:EOLhyphen"/>vice to her, ſhe having with much ſtrug<g ref="char:EOLhyphen"/>ling overcome her former affections, ſhe
+<pb facs="tcp:37827:9"/>changed her Paſſion, and ſacrificed her Virginity to the pleaſure of this new<g ref="char:EOLhyphen"/>come Lover, where Revelling in exceſs of joy, we will leave them, and follow <hi>Au<g ref="char:EOLhyphen"/>relius</hi> to his new preferment.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. How he gained the Love of his Maſter, and became enamoured of <hi>Dorinda</hi> his ſair Daughter.</head>
+               <p>OUr Youth upon his Tryal, proved ſo diligent and reſpectful, that it was not long e're he was Bound, according to the cuſtom of the City, and then dou<g ref="char:EOLhyphen"/>bling his Diligence, he won the love of the whole Family, not doubting any thing that might pleaſe or be for his Maſter's Intereſt, and what time he had to ſpare, he imployed in Manly Exerciſe of recre<g ref="char:EOLhyphen"/>ating himſelf in the Fencing-School, and in Martial Exploits, gaining every where the name of a bold and and hardy Youth, and one that promiſed great things. In this happy State he lived near three years; when Fortune (who is as unconſtant as the wind) conſpired to give him ſome di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>bance, for <hi>Dorinda</hi> his Maſter's daugh<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:37827:9"/>a beautiful Virgin, of about <hi>14</hi> Years of Age, returning from the School where ſhe had been brought up at Board, her Mo<g ref="char:EOLhyphen"/>deſty, winning Behaviour, and Charm<g ref="char:EOLhyphen"/>ing Graces, by his often gazing on her, prompted him to admire her, and by de<g ref="char:EOLhyphen"/>grees, to conceive ſuch a Paſſion for that excellent Creature, that he was no longer Maſter of his Heart, which his Eyes had given away: A while he ſmo<g ref="char:EOLhyphen"/>thered the Flame, but in the end it broke out the fiercer, and then he knew experi<g ref="char:EOLhyphen"/>mentally what <hi>Lucinda</hi> had ſuffered of<g ref="char:EOLhyphen"/>ten; he attempted to diſcover his Paſſion, and as often fear'd to offend, ſtayed the words at his Tongues end, and all he could do, was to ſigh and ſtand confoun<g ref="char:EOLhyphen"/>ded in her preſence; whilſt the Innocent Lady would frequently ask the Reaſon, but had no anſwer, but what his Eyes delivered in burning glances. Thus he continued for a Month or more; at the end of which, he reſolved one way or other to make his Paſſion known, and ſoon found an opportunity to drop a Letter in the way of the lovely <hi>Dorinda,</hi> containing theſe words:</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Beauteous <hi>Dorinda,</hi>
+                        </salute>
+                     </opener>
+                     <p>after many ſighs and eager looks, I have preſumed to let you
+<pb facs="tcp:37827:10"/>know, if this come to your fair Hand, that I love you dearer than my own life, and to be requited with your love, there is not any thing ſo hazardous that I would not undertake for your ſake; the inequality I muſt confeſs, is great, yet Love is a Power obedient to no law but his own: pity me then as a Lover, that love you above all Earthly things, and look not on me as your Father's Servant, but as your Devo<g ref="char:EOLhyphen"/>ted Slave, by whoſe Smiles I live, and with<g ref="char:EOLhyphen"/>out which, my life muſt needs be miſerable.</p>
+                     <closer>
+                        <signed>Subſcribed Aurelius.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This did not a little ſurprize the beau<g ref="char:EOLhyphen"/>teous Maid, who conſidered, that altho' he being as then a Servant, ſhe might for all that have cauſe to love him, yet highly viſpleaſing to her Parents, if ſhe ſhould countenance his affections; where<g ref="char:EOLhyphen"/>fore preferring her Duty and Obedience be<g ref="char:EOLhyphen"/>fore her Fancy, or the Paſſion of <hi>Aurelius,</hi> the next time ſhe met him, her words were, <hi>That ſhe could not but wonder, he ſhould preſume to make Love to her, who was his Maſter's Daughter, e're half his time was expired, and wiſhed him not to make mention of it any more by Letter or word, leaſt her Father were made acquainted with
+<pb facs="tcp:37827:10"/>it,</hi> to his prejudice; and ſo with a kind of a ſcornful frown, left him as one in a maze of Grief.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. How he got leave to go for <hi>Turkey,</hi> and what enſued.</head>
+               <p>
+                  <hi>Aurelius</hi> being thus repulſed in his firſt Love, found himſelf altogether reſt<g ref="char:EOLhyphen"/>leſs, and that as often as he beheld his beautiful Miſtreſs, his Flame encreaſed, and his Torture was more and more aug<g ref="char:EOLhyphen"/>mented; and though he tryed many ways to give way to his labouring mind, he found them in vain, and therefore con<g ref="char:EOLhyphen"/>cluded, unleſs he were removed from the lovely Object, he muſt be always miſera<g ref="char:EOLhyphen"/>ble; and perceiving her looks and carri<g ref="char:EOLhyphen"/>age every day more and more ſcornful towards him, he reſolved to requeſt his Maſter that he might go for <hi>Turkey</hi> as his Factor in the next Fleet: which Re<g ref="char:EOLhyphen"/>queſt of his, was granted whthout much difficulty, and in a gallant Equipage took leave; though not without ſome tears of his ſcornful Miſtreſs, who by this time, began ſomewhat to relent, that ſhe
+<pb facs="tcp:37827:11"/>had ſo unkindly repulſed his Addreſs, but being young and beautiful, and conſide<g ref="char:EOLhyphen"/>ring, that to thoſe advantages her indul<g ref="char:EOLhyphen"/>gent Father would add in large Portion, her thoughts of a higher advancement, huſhed that care and ſo they parted; the valiant <hi>Aurelius</hi> to the Ship, and he La<g ref="char:EOLhyphen"/>dy to her Chamber; where we muſt leave her (who ſhortly after Married a Rich Merchant) and follow him into <hi>Turkey.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. How he arrived in <hi>Turkey,</hi> and of his Re<g ref="char:EOLhyphen"/>ception: How he overthrew the <hi>Turks</hi> and killed a Turkiſh Prince.</head>
+               <p>THe gallant <hi>Aurelius</hi> having paſſed the danger of the Seas, and a while con<g ref="char:EOLhyphen"/>tended with the Storms of Winds and Love, Landed at <hi>Conſtantinople,</hi> where he was received with much reſpect, by the Engliſh Merchants and Factors reſiding there, and behaved himſelf ſo well, in the management of his Affairs, that he gained a general Eſteem; and in all this he forget not to exerciſe his Valour, as occaſion requir'd; and being by this tim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grown to his full ſtrength, he found not<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:37827:11"/>to encounter him, though he was too modeſt to boaſt of his own Abilities: Now it ſo fell out, that upon the Mar<g ref="char:EOLhyphen"/>riage of one of the Turk's Daughters, great Sports and Shows were prepa<g ref="char:EOLhyphen"/>red, and all the valiant Knights ſum<g ref="char:EOLhyphen"/>moned to exerciſe at Tilt and Turna<g ref="char:EOLhyphen"/>ment, in honour of the Ladies and their Countries. This News pleaſed <hi>Aureli<g ref="char:EOLhyphen"/>us</hi> ſo well that he reſolved to make one amongſt them, and ſhew his Proweſs for the Honour of the Engliſh Nation, a<g ref="char:EOLhyphen"/>gainſt the proud Infidels, and thereupon provided Armour, a Horſe, Sword and Launce, bearing in his Shield a Golden <hi>Phoenix,</hi> to ſignifie he was in Subject to a Virgin Queen; and under it <hi>Neptune</hi> Brideling the Ocean; ſhewing, that the Seas Soveraignty depended on her Will: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for his Armour it was White, ſignifi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Innocence.</p>
+               <p>Thus bravely Acc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>red, he haſted to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Liſt, to await the Trumpets ſound, where all the Nobles and Ladies were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eated in their Degrees, clad in Gold and Gems, when on a ſudden, three Turks <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell mounted, and richly armed, advan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with their Mooned Shields, and with loud voice, did Defiance as the Bride<g ref="char:EOLhyphen"/>groom's
+<pb facs="tcp:37827:12"/>Champions, to all the Knights of <hi>Chriſtendom;</hi> which made <hi>Aurelius</hi> mad to let them know what Engliſh Valour was; but perceiving the Champions of other Nations preparing for the Encoun<g ref="char:EOLhyphen"/>ter, he forbear till he might be a witneſs, of their Fortune, and that his Honour might be the greater, in overcoming their overcomers: nor did he miſs, for the Turks being of a Monſtrous ſize, and well mana<g ref="char:EOLhyphen"/>ged to ſuch Fears of Arms, at the firſt encounter caſt them from their Saddles, and ſo paſſed on, and did the like to three others, which made the bold <hi>Aurelius</hi> be<g ref="char:EOLhyphen"/>lieve it was time for him to advance, and thereupon, ſetting Spurs to his Horſe, he met the foremoſt with a full ſtroke on his Breaſt, that he tumbled him with his Heels upward, quite over the Crup, and paſſing on, ſtruck the ſecond on the Creſt, with ſuch forre that he broke it, and the Launce entring his Brain, he fell breath<g ref="char:EOLhyphen"/>leſs to the ground, which the thrid per<g ref="char:EOLhyphen"/>ceiving, who was of a Giant like Sta<g ref="char:EOLhyphen"/>tuce, came upon him with his Sword, and with a full blow, cut through his Shield and much bruiſed him, but he charging furiouſly upon the Infidel, ſoon made him give ground, and after divers Wounds
+<pb facs="tcp:37827:12"/>obliged him to kiſs the Earth, and beg quarter for his Life.</p>
+               <p>To revenge this diſgrace of his Cham<g ref="char:EOLhyphen"/>pions, the Turkiſh Prince, with the leave of his Father in-Law, entred the Liſt in great rage, and defied the bold <hi>Aurelius,</hi> Swearing by <hi>Mahomet,</hi> he would Chaſtiſe the great Affront, and with many re<g ref="char:EOLhyphen"/>proachful words, bid him to come on, upon which they ſet Spurs to their Hor<g ref="char:EOLhyphen"/>ſes, and met with ſuch fury, that their Launces hurſt, and ſhivered in the Air, when the Turkiſh Prince drew his Sword: but <hi>Aurelius</hi> neglecting to do the like, made at him with the Truncheon of his Spear, with which he gave him ſuch a weighty blow on the top of his Helmet, that broke his Neck in ſunder, and down he fell in a mortal Trance, after which the Turks ſtrained Complement, and none durſt un<g ref="char:EOLhyphen"/>dertake the valiant Engliſh Champion.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb facs="tcp:37827:13"/>
+               <head>CHAP. IX. How he deſtroyed two Lyons prepared to devour him, and had the King's Daugh<g ref="char:EOLhyphen"/>ter in Marriage.</head>
+               <p>THe Great Turk upon notice that Prince <hi>Grodam</hi> his Son-in-law, whom he thought had only been ſtunn'd, was dead, vowed that <hi>Aurelius,</hi> whom he called Engliſh Boy, ſhould dye the cruel<g ref="char:EOLhyphen"/>leſt Death that ever Man dyed, and there<g ref="char:EOLhyphen"/>upon ſent a ſtrong Guard to ſieze him, and convey him to Priſon, till he conſul<g ref="char:EOLhyphen"/>ted what manner of Teach to put him to; which in the end was concluded, that he ſhould be caſt alive to two Lyons, who (to be the greedier in devouring) were kept faſting many days.</p>
+               <p>The day of his death, as by appoint<g ref="char:EOLhyphen"/>ment being come, and the King his No<g ref="char:EOLhyphen"/>bles, and all his Ladies, ſeated to behold the Execution, the brave <hi>Aurelius</hi> was brought forth in a Shirt of Cambrick, and Drawers of white Sattin, Imbroidered with Gold and a Crimſon Cap on his Head, but had ſcarce time to vow reſpect<g ref="char:EOLhyphen"/>fully to the Ladies, who greatly praiſ<g ref="char:EOLhyphen"/>ed his manly Beauty, and began highly
+<pb facs="tcp:37827:13"/>to pity his misfortune, e're the Lyons were let looſe, who at the ſight of their Prey, caſting their Eyes upon him, be<g ref="char:EOLhyphen"/>gan to rore horridly, inſomuch that the Spectators trembled; and behold <hi>Aure<g ref="char:EOLhyphen"/>lius,</hi> whom Death could not daunt laying aſide all fear as they came fiercely to him with open Mouth, charged his Hands in<g ref="char:EOLhyphen"/>to their Throats, and e're they had pow<g ref="char:EOLhyphen"/>er to get from his ſtrong Arms, forc'd out their Hearts, and lay'd them dead at his feet, demanding of the King what o<g ref="char:EOLhyphen"/>ther dangerous Enterprizes they had to put him on, and he would gladly do it for the Honour of his Queen and Countries ſake; when immediately the Emperor deſcending from his Throne, tenderly Embracing him, ſwearing he was ſome Angel; withal Pardoning him, and gave him Beauteous <hi>Teoraza</hi> his Daugh<g ref="char:EOLhyphen"/>ter in Marriage, with great Riches, who for his ſake, became a Chriſtian: and af<g ref="char:EOLhyphen"/>ter ſpending ſome time in that place, they both returned to <hi>England</hi> with great joy, where they lived many Years very Loving and Happy.</p>
+               <trailer>FINIS:</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:37827:14"/>
+            <head>
+               <hi>BOOKS</hi> Printed for <hi>j. Back,</hi> at the <hi>Black-Boy</hi> on the middle of <hi>Lon<g ref="char:EOLhyphen"/>don-Bridge;</hi> Where any <hi>Chap<g ref="char:EOLhyphen"/>man</hi> may be furniſhed with all ſorts of Books and Ballads at reaſonable Rates.</head>
+            <list>
+               <item>
+                  <hi>1. THe Proteſtant Guide in Prayer,</hi> &amp;c.</item>
+               <item>
+                  <hi>2. School of Piety.</hi>
+               </item>
+               <item>
+                  <hi>3. Life and Death of</hi> Thomas Savage.</item>
+               <item>
+                  <hi>4. Righteous Man's reward.</hi>
+               </item>
+               <item>
+                  <hi>5. Saints everlaſting Reſt, by</hi> R. B.</item>
+               <item>
+                  <hi>6.</hi> England<hi>'s delightful new Songs.</hi>
+               </item>
+               <item>
+                  <hi>7. Simple</hi> Simon.</item>
+               <item>
+                  <hi>8. Gentlewomans delight in Cookery.</hi>
+               </item>
+               <item>
+                  <hi>9. Crown Garland.</hi>
+               </item>
+               <item>
+                  <hi>10. Twice Lovers Garland.</hi>
+               </item>
+               <item>
+                  <hi>11. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Courtſhip.</hi>
+               </item>
+               <item>
+                  <hi>12. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Jeſts.</hi>
+               </item>
+               <item>
+                  <hi>13. Hiſtory of the</hi> London <hi>'Prentice.</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> Canterbury <hi>Tales.</hi>
+               </item>
+               <item>
+                  <hi>15. A Diſcourſe between a Mother and a Daughter, concerning Marriage.</hi>
+               </item>
+               <item>
+                  <hi>16. A Book of merry Riddlès.</hi>
+               </item>
+               <item>
+                  <hi>17. The true</hi> Egyptian <hi>Fortune-Teller.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>Broad-ſheets.</head>
+               <p>
+                  <hi>The Romiſh Maſſacre: Or, An Account of the Iriſh Rebellion.</hi>
+               </p>
+               <p>
+                  <hi>A Proſpect of the Seven reigning Sins.</hi>
+               </p>
+               <p>
+                  <hi>A Tribute of tears, or the houſe of mourn<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <pb facs="tcp:37827:14"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
